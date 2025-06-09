@@ -1,5 +1,23 @@
 # 💫 About Me:
-🛠️ I'm currently working on  <br>→ Snix – AI-powered crypto fraud detection app using LLMs, RAG, and smart contract analysis  <br>→ FlavorSync – A food discovery + restaurant management platform using Google Places & AI  <br><br>🤝 I'm looking to collaborate on  <br>→ AI + Blockchain projects  <br>→ React Native apps with real-world impact  <br>→ Open-source tools for developers  <br><br>🙋‍♂️ I'm looking for help with  <br>→ Hosting large AI models without a GPU  <br>→ Improving UX/UI of my mobile apps  <br>→ Building scalable Node.js backends  <br><br>🌱 I'm currently learning  <br>→ Reinforcement Learning & Fine-Tuning LLMs  <br>→ Docker, Kubernetes & CI/CD for DevOps  <br>→ Data-driven app monetization strategies  <br><br>💬 Ask me about  <br>→ React Native, Node.js, MongoDB  <br>→ AI integrations in real-world apps  <br>→ Prompt engineering & model selection  <br><br>⚡ Fun fact  <br>I turned my curiosity into 4 full-stack AI-powered apps before landing my first job — still learning every day like it's Day 1!
+## 🧠 About Me
+
+🛠️ I’m currently working on:  
+AI-powered apps like **Snix (Crypto fraud detection)** and **FlavorSync (Restaurant platform)**
+
+🤝 I’m looking to collaborate on:  
+AI + Mobile app projects and open-source tools
+
+🤔 I’m looking for help with:  
+Hosting large AI models and backend optimization
+
+🌱 I’m currently learning:  
+Reinforcement Learning, Docker, and Kubernetes
+
+💬 Ask me about:  
+React Native, Node.js, MongoDB, AI integrations
+
+⚡ Fun fact:  
+I love turning real-world problems into smart AI apps 🚀
 
 
 ## 🌐 Socials:
